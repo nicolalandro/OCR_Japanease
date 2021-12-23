@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicolalandro/OCR_Japanease/blob/master/OCR_japan.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicolalandro/OCR_Japanease/blob/master/OCR_Japan.ipynb)
 # 日本語OCR
 
 
